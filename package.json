@@ -1,0 +1,11 @@
+{
+  "name": "jest-nodejs-authentication",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/luaenrique/jest-nodejs-authentication/",
+  "author": "Luã Enrique Zangrande <lua.enriquezan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
